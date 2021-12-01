@@ -12,7 +12,7 @@ Download and install Synchronous Audio Router (SAR): http://sar.audio/
 
 ## Configure SAR in DAW (Ardour 6)
 
-Download and install Ardour 6: https://ardour.org/whatsnew.html
+Download and install Ardour 6: https://ardour.org/
 Setup a new project in Ardour and make sure to choose the **Advanced Session**.
 
 ![enter image description here](https://raw.githubusercontent.com/dingbaat/daw-skype-setup/main/ardour-1.png)
